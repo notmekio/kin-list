@@ -1,4 +1,4 @@
-<details open>
+<details>
   <summary>click on me0_o</summary>
 
   - Chance (HEAVYKIN)
